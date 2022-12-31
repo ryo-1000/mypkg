@@ -17,7 +17,6 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='ryo_21',
-
     maintainer_email='s21c1021um@s.chibakoudai.jp',
     description='a package for practice',
     license='BSD-3-Clause',
