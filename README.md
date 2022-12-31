@@ -1,4 +1,5 @@
 # ros2_ws/src/mypkg
+![test](https://github.com/ryo-1000/mypkg/actions/workflows/test.yml)
 ## 概要
 * ros2のパッケージであるmypkg（リポジトリ）においてtalkerやlistenerが入っている
 * 時間経過を表示するリポジトリ
