@@ -11,8 +11,8 @@ $ cd ros2_setup_scripts
 ```
 上記のものを実行する
 
-## talkerコマンド
-## listenerコマンド
+## talker listener コマンド
+talkerの方で送った符号付整数型のメッセージをlistenerの方で受け取ってその順番通りに表示する．
 
 ## 実行例
 
